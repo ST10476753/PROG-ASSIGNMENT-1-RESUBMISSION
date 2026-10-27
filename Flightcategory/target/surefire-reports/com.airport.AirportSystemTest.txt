@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.airport.AirportSystemTest
+-------------------------------------------------------------------------------
+Tests run: 23, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.235 s -- in com.airport.AirportSystemTest
